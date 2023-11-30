@@ -1,5 +1,4 @@
 # Ice-Cream-Factory
-Learning Java project
 
 Hi, eveyone! This is a simple Java project simulating an ice cream factory. The code consists of two main classes:
 
